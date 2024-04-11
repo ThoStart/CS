@@ -1,0 +1,7 @@
+Week 1:
+
+Links:
+- SICP: https://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents
+- simply.scm: https://people.eecs.berkeley.edu/~bh/downloads/simply/simply.scm
+- Planning: https://people.eecs.berkeley.edu/~bh/61a-pages/Volume1/hw.pdf
+
